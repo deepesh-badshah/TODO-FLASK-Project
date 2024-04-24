@@ -1,0 +1,2 @@
+# TODO-FLASK-Project
+ This simple To-Do web application, built using Flask and SQLAlchemy, offers users a straightforward way to manage tasks. Users can easily add, edit, and delete tasks, with data securely stored in a SQLite database. The interface is user-friendly, responsive, and designed for easy navigation.  Features:  User-friendly Interface Responsive Design Secure Data Storage Intuitive Navigation
